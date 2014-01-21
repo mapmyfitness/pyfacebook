@@ -1,1 +1,4 @@
 *.py?
+RELEASE-VERSION
+MANIFEST
+dist
